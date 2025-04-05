@@ -47,7 +47,7 @@ To get started with the project, follow these steps:
     - Open the `index.html` file in a web browser to start using the Temperature Converter.
 
 ## Contact
-- For feedback, suggestions, or collaboration, feel free to reach out:
+For feedback, suggestions, or collaboration, feel free to reach out:
 📧 skmdamanr98@gmail.com
 
 Thank you for visiting my portfolio! Hope you enjoyed exploring my work. 😊
