@@ -1,48 +1,36 @@
-🌐 Personal Portfolio Website
+# Personal Portfolio Website
+
+This repository contains the source code and files for my personal portfolio website. The website is built using HTML and CSS.
+
+## Description
+
 A responsive and minimalistic web portfolio to showcase my skills, projects, and contact information. This webpage serves as my personal corner on the internet—built purely with HTML and CSS, no frameworks or libraries.
 
-Link
-Website Link: https://your-username.github.io/your-portfolio/
+## Link
+- Website Link:  https://aman9832.github.io/OIBSIP_portfolio_website/ 
 
-Repository Link: https://github.com/your-username/your-portfolio
-(Replace with your actual links)
+- Repository Link:  https://github.com/aman9832/OIBSIP_portfolio_website
 
-Features
-About Me Section: Brief intro and background.
+## Features
 
-Projects Showcase: Highlights of selected works with links.
+- About Me Section: Brief intro and background.
 
-Contact Information: Easy ways to reach out.
+- Projects Showcase: Highlights of selected works with links.
 
-Responsive Design: Works smoothly across desktops, tablets, and phones.
+- Contact Information: Easy ways to reach out.
 
-Clean Layout: Simple, elegant UI built from scratch.
+- Responsive Design: Works smoothly across desktops, tablets, and phones.
 
-Technologies Used
-HTML: For creating the structure of the website.
+- Clean Layout: Simple, elegant UI built from scratch.
 
-CSS: For designing and styling the webpage.
+## Technologies Used
+- HTML: For creating the structure of the website.
+
+- CSS: For designing and styling the webpage.
 (No JavaScript used in this version)
 
-Usage
-Clone the Repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-portfolio.git
-Navigate to the Folder:
-
-bash
-Copy
-Edit
-cd your-portfolio
-Open in Browser:
-Open index.html with any modern browser to view the site locally.
-
-Contact
-For feedback, suggestions, or collaboration, feel free to reach out:
+## Contact
+- For feedback, suggestions, or collaboration, feel free to reach out:
 📧 skmdamanr98@gmail.com
-🔗 GitHub • LinkedIn
 
 Thank you for visiting my portfolio! Hope you enjoyed exploring my work. 😊
