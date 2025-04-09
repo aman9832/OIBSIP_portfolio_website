@@ -44,7 +44,7 @@ To get started with the project, follow these steps:
     ```
 
 3. **Run the project**:
-    - Open the `index.html` file in a web browser to start using the Temperature Converter.
+    - Open the `index.html` file in a web browser to discover my portfolio.
 
 ## Contact
 For feedback, suggestions, or collaboration, feel free to reach out:
